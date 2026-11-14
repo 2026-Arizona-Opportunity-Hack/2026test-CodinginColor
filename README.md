@@ -1,5 +1,7 @@
 # 2026test — Coding in Color
 
+Small change
+
 Built at [ASU Fall Hackathon 2026 | Phoenix Hackathon for Nonprofits: Nov 14-15](https://www.ohack.dev/hack/fall-2026) for the public good (MIT license).
 
 > **⚠️ This is your team's ONE repository — all code goes here.** Please don't create
